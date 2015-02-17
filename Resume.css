@@ -1,0 +1,54 @@
+.header{
+	margin:auto;
+	border:2px solid black;
+	font-size:26px;
+	font-family: Corbel; 
+	background-color: red;
+	width:1327px;
+	height:90px;
+	margin-left: auto ;
+    margin-right: auto ;
+}
+	
+
+}
+.pic{
+	float:left;
+	height:300px;
+	width:300px;
+	border:2px black solid;
+	margin-left:20px;
+	background-color:red;
+	width:300px;
+}
+a{
+	text-decoration: none;
+	color:black;
+}
+#name{
+	font-size: 26px;
+	padding-left:500px;
+}
+
+body{
+	/*border:2px solid black;*/
+	font-family: Corbel;
+	background: white; 
+}
+h2{
+	font-size:18px;
+}
+h3{
+	font-size:12px;
+	font-weight:bold;
+}
+
+
+#contact{
+	font-size:12px;
+	padding-left: 350px;
+}
+.obj{
+	float:right;
+	margin-right: 300px;
+}

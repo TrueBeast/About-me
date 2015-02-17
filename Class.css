@@ -1,3 +1,7 @@
+body {
+	background-image:https://youtheman77.files.wordpress.com/2014/11/im-working-on-it.jpg;
+}
+
 div{
 	<span text-align: center>About Me</span>
 	margin-right: 10px;
@@ -34,4 +38,10 @@ th{
 h1{
 	background-color:white;
 	border:1px solid black;
+}
+#header{
+	margin:auto;
+	border:2px solid black;
+	font-size:11px;
+	font-family: Corbel; 
 }

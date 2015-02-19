@@ -3,7 +3,6 @@
 	border:2px solid black;
 	font-size:26px;
 	font-family: Corbel; 
-	background-color: red;
 	width:1327px;
 	height:90px;
 	margin-left: auto ;
@@ -51,4 +50,10 @@ h3{
 .obj{
 	float:right;
 	margin-right: 300px;
+}
+.footer{
+	width:1327px;
+	height: 100px;
+	clear:both;
+	background-color:red;
 }

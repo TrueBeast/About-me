@@ -7,6 +7,11 @@
 	height:50px;
     background-color:red
 }
+.resButton{
+	border:1px black solid;
+	height: 5px;
+	width: 10px;
+}
 /*.footer{
 	width:1050px;
 	height: 50px;
@@ -29,7 +34,13 @@ img {
 	height:300px; 
 	width:300px;
 }
-
+body{
+	background-image:url(stardust.png);
+	
+	background-size:relative;
+	background-position:center;
+	background-attachment: fixed;
+}
 /*.me{
 	
 	font-size:20px;

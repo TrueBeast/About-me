@@ -27,7 +27,13 @@ a{
 	font-size: 26px;
 	padding-left:475px;
 }
-
+body{
+	background-image:url(stardust.png);
+	
+	background-size:relative;
+	background-position:center;
+	background-attachment: fixed;
+}
 body{
 	/*border:2px solid black;*/
 	font-family: Corbel;
